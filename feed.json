@@ -1,18 +1,26 @@
 [
 	{
 		"desc":"Vivrti Cultural Fest",
-		"url":""
+		"thumb_url":"",
+		"img_url":"",
+		"video_url":""
 	},
 	{
 		"desc":"Career Counselling Program",
-		"url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg"
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
+		"img_url":"",
+		"video_url":""
 	},
 	{
 		"desc":"Badshah in College",
-		"url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/badshah%20in%20aravali%20college.jpg"
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/badshah%20in%20aravali%20college.jpg",
+		"img_url":"",
+		"video_url":""
 	},
 	{
 		"desc":"Alumni",
-		"url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG"
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
+		"img_url":"",
+		"video_url":""
 	}
 ]
