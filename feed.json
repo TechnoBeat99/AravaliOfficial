@@ -1,14 +1,8 @@
 [
 	{
-		"desc":"Vivrti Cultural Fest",
-		"thumb_url":"",
-		"img_url":"",
-		"video_url":""
-	},
-	{
-		"desc":"Career Counselling Program",
-		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
-		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
+		"desc":"Alumni",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
 		"video_url":""
 	},
 	{
@@ -18,9 +12,41 @@
 		"video_url":""
 	},
 	{
-		"desc":"Alumni",
-		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
-		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
+		"desc":"Career Counselling Program",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
 		"video_url":""
-	}
+	},
+	{
+		"desc":"Vivrti Cultural Fest",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/1web1.jpg",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/1web1.jpg",
+		"video_url":""
+	},
+		{
+		"desc":"Industrial Visit",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/Industrial%20Visit.jpg",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/Industrial%20Visit.jpg",
+		"video_url":""
+	},
+		{
+		"desc":"Harrdy Sandu live at Aravali College",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/blob/master/Images/Hardy%20Sandhu.JPG",
+		"img_url":"https://raw.githubusercontent.com/AravaliOfficial/blob/master/Images/Hardy%20Sandhu.JPG",
+		"video_url":""
+	},
+		{
+		"desc":"FNAT 2019",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/fnat.jpg",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/fnat.jpg",
+		"video_url":""
+	},
+		{
+		"desc":"Colloquy 2018",
+		"thumb_url":"http://www.acem.edu.in/img/_DSC0650.JPG",
+		"img_url":"http://www.acem.edu.in/img/_DSC0650.JPG",
+		"video_url":""
+	},
+	
+
 ]
