@@ -1,1 +1,8 @@
--MathematicsI By NP Bali \n-PhysicsI By SL Gupta \n-Chemistry By -- \n-BME By \n-EVS By \n-EEE BY \n \nFee For Btech is 95000 per Year, for more details contact us.
+-MathematicsI By NP Bali
+|-PhysicsI By SL Gupta
+|-Chemistry By 
+|-BME By 
+|-EVS By 
+|-EEE BY 
+|
+|Fee For Btech is 95000 per Year, for more details contact us.
