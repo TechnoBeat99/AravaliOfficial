@@ -1,8 +1,7 @@
--MathematicsII By NP Bali
-|-PhysicsII By SL Gupta
-|-FCPC By 
-|-BEE By 
-|-English By 
-|-EGD BY 
-|
-|Fee For Btech is 95000 per Year, for more details contact us.
+Books
+|-MathematicsII
+|-PhysicsII
+|-Fundamentals of C Programming and Computers 
+|-Basics of Electrical Engineering
+|-English
+|-Engineering Drawing

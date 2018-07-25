@@ -1,8 +1,7 @@
--MathematicsI By NP Bali
-|-PhysicsI By SL Gupta
-|-Chemistry By 
-|-BME By 
-|-EVS By 
-|-EEE BY 
-|
-|Fee For Btech is 95000 per Year, for more details contact us.
+Books
+|-MathematicsI
+|-PhysicsI
+|-Chemistry
+|-Basics Of Mechanical Engineering
+|-Environmental Science
+|-Elements of Electrical Engineering
