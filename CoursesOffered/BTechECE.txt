@@ -1,0 +1,19 @@
+The Electronics and Communication Engineering industry is an emerging and expanding area of technology. Communication Industry is one of the few industries in the world that is posting consistent high growth. 
+|The department comprises of experienced faculty and well equipped labs. The course is designed so as to make the students versed with the application of electronics in the field of communication and control systems, computers, industrial electronics and instrumentation. The student is also made to develop rapid response systems using large scale integration and troubleshooting problems associated with the devices.
+|
+|DURATION
+|-4 years (8 semesters)
+|
+|INTAKE
+|-120
+|
+|LABORATORIES
+|
+|The Electronics and Communication Engineering department is enriched with following labs :
+|-Electronics Lab
+|-PCB Lab
+|-CAD Lab
+|-Digital Signal Processing Lab
+|-Integrated Circuit Lab
+|-Microwave Lab
+|-Communication Lab

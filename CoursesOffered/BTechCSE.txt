@@ -1,0 +1,19 @@
+Computer Science Engineering is a dynamic and versatile subject that promises a galore of opportunities for today's supersonic generation. The first year of the course covers broad subject areas in the field of computer network, computer hardware and fundamentals and computer application. By the time a student moves towards his fourth year of study he would have a detailed understanding of the nitty-gritty of the subject.
+|The department of Computer Science & Engineering is fully equipped with best of intellectual capital and state-of-the-art labs. The main focus is to provide the students with the latest technologies available in the market so as to keep them abreast with the emerging trends in the field.
+|
+|DURATION
+|-4 years (8 semesters)
+|
+|INTAKE
+|-120
+|
+|LABORATORIES
+|
+|-The Computer Science department is enriched with following labs :
+|-C-programming Lab
+|-Numerical Techniques Lab
+|-Data Structure Lab
+|-Computer Organization Lab
+|-Java Programming Lab
+|-Software Engineering Lab
+|-Data Base Management Systems Lab
