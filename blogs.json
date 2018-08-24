@@ -1,18 +1,26 @@
 [
 	{
 		"title":"Dehyping Robotics and Artificial Intelligence (AI)!!",
-		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/AI.txt"
+		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/AI.txt",
+		"date":"June",
+		"author":"Shalini"
 	},
 	{
 		"title":"Modern words!!",
-		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt"
+		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt",
+		"date":"Jan",
+		"author":"Himanshi"
 	},
 	{
 		"title":"Modern words2!!",
-		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt"
+		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt",
+		"date":"Feb",
+		"author":"Himanshi"
 	},
 	{
 		"title":"Modern words3!!",
-		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt"
+		"desc_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Blogs/ModernWords.txt",
+		"date":"March",
+		"author":"Himanshi"
 	}
 ]
