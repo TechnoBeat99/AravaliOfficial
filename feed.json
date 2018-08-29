@@ -5,7 +5,7 @@
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/hero_grosland.JPG",
 		"video_url":"",
 		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"status":"Held"
 	},
 	{
 		"desc":"Badshah in College",
@@ -13,7 +13,7 @@
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/badshah%20in%20aravali%20college.jpg",
 		"video_url":"",
 		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"status":"Held"
 	},
 	{
 		"desc":"Career Counselling Program",
@@ -21,47 +21,55 @@
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/jatin.jpg",
 		"video_url":"",
 		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"status":"Held"
 	},
 	{
 		"desc":"Vivrti Cultural Fest",
 		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/1web1.jpg",
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/1web1.jpg",
 		"video_url":"",
-		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"date":"9th Feb 2018",
+		"status":"Held"
 	},
 	{
 		"desc":"Industrial Visit",
 		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/Industrial%20Visit.jpg",
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/Industrial%20Visit.jpg",
 		"video_url":"",
-		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"date":"17th March 2018",
+		"status":"Held"
 	},
 	{
 		"desc":"Harrdy Sandu live at Aravali College",
 		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/blob/master/Images/Hardy%20Sandhu.JPG",
 		"img_url":"https://raw.githubusercontent.com/AravaliOfficial/blob/master/Images/Hardy%20Sandhu.JPG",
 		"video_url":"",
-		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"date":"10th Feb 2018",
+		"status":"Held"
 	},
 	{
 		"desc":"FNAT 2019",
 		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/fnat.jpg",
 		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/fnat.jpg",
 		"video_url":"",
-		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"date":"March",
+		"status":"Held"
 	},
 	{
 		"desc":"Colloquy 2018",
 		"thumb_url":"http://www.acem.edu.in/img/_DSC0650.JPG",
 		"img_url":"http://www.acem.edu.in/img/_DSC0650.JPG",
 		"video_url":"",
-		"date":"8 Jan 2018",
-		"status":"Upcoming"
+		"date":"12th April 2018",
+		"status":"Held"
+	},
+	{
+		"desc":"Orientation 2018",
+		"thumb_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/O-2018.jpg",
+		"img_url":"https://raw.githubusercontent.com/TechnoBeat99/AravaliOfficial/master/Images/O-2018.jpg",
+		"video_url":"",
+		"date":"13th Aug 2018",
+		"status":"Held"
 	}
 	
 
